@@ -1,6 +1,6 @@
-# myapp
+# LOP
 
-A new Flutter project.
+A List of PLanets Flutter project.
 
 ## Getting Started
 
